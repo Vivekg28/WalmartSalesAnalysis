@@ -5,7 +5,7 @@ ABOUT THE DATA -  The dataset contains sales transactions from a three different
 
 PURPOSE OF THE PROJECT - The major aim of thie project is to gain insight into the sales data of Walmart to understand the <Br> different factors that affect sales of the different branches. <Br>
 
-&diams BUSINESS QUES TO ANSWER - <Br>
+&diams;</h2> BUSINESS QUES TO ANSWER - <Br>
 &rarr;</h2> Generic Question<Br>
 1. How many unique cities does the data have? <Br>
 2. In which city is each branch? <Br>
