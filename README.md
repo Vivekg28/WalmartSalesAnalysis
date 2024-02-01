@@ -5,7 +5,7 @@ ABOUT THE DATA -  The dataset contains sales transactions from a three different
 
 PURPOSE OF THE PROJECT - The major aim of thie project is to gain insight into the sales data of Walmart to understand the <Br> different factors that affect sales of the different branches. <Br>
 
-BUSINESS QUES TO ANSWER - <Br>
+&diams BUSINESS QUES TO ANSWER - <Br>
 &rarr;</h2> Generic Question<Br>
 1. How many unique cities does the data have? <Br>
 2. In which city is each branch? <Br>
@@ -19,7 +19,7 @@ BUSINESS QUES TO ANSWER - <Br>
 6. What product line had the largest revenue? <Br>
 7. What is the city with the largest revenue? <Br>
 8. What product line had the largest VAT? <Br>
-9. Fetch each product line and add a column to those product line showing "Good", "Bad".Good if its greater than average sales<Br>
+9. Fetch each product line and add a column to those product line showing "Good", "Bad".Good if its greater than average sales.<Br>
 10. Which branch sold more products than average product sold? <Br>
 11. What is the most common product line by gender? <Br>
 12. What is the average rating of each product line? <Br>
